@@ -37,6 +37,7 @@ img{
 }
 .card{
     width: 32%;
+    height: 500px;
     margin-bottom: 25px;
     border-radius: 15px;
     overflow: hidden;
